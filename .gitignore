@@ -1,1 +1,8 @@
 .vscode/
+node_modules/
+thumbs.db
+ehthumbs.db
+/dist
+/build
+.log
+.env
