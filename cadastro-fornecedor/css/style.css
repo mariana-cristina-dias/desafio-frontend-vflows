@@ -1,0 +1,56 @@
+.titulo-pagina {
+  text-align: center;
+  color: rgb(5, 1, 1);
+  padding: 15px 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.titulo-pagina h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+body {
+  background: #f0f2f5;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.card-header.bg-primary {
+  background: #0074c4 !important;
+  font-weight: bold;
+}
+
+.card-header.bg-info {
+  background: #00a3e0 !important;
+  font-weight: bold;
+}
+
+.valor-total {
+  background: #e9ecef;
+  cursor: not-allowed;
+}
+
+#addProduto {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.25rem;
+}
+
+#addAnexo {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.25rem;
+}
+
+#btnSalvar {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.25rem;
+
+}
